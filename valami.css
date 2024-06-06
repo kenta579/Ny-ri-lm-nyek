@@ -30,3 +30,21 @@ h2{
     margin: 0% 8% 8% 10%;
 
 }
+
+.tomb{
+
+}
+
+.tombkep{
+    width: 50%;
+    clear: right;
+    float: right;
+    margin: 2%;
+    border: 5px double gray;
+}
+
+.tombkep:hover{
+   transform: scale(200%,200%);
+   transition-duration: 3s;
+   transform-origin: top right;
+}
